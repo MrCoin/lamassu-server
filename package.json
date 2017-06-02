@@ -26,7 +26,7 @@
     "lamassu-coinbase": "^1.0.4",
     "lamassu-coinapult": "^0.4.5",
     "lamassu-coinfloor": "^0.1.2",
-    "lamassu-bitgo": "^0.2.0",
+    "lamassu-bitgo": "git://github.com/MrCoin/lamassu-bitgo.git#mrc",
     "lamassu-snapcard": "^0.1.7",
     "lamassu-coinmate": "^1.2.3",
     "lodash": "^2.4.1",
